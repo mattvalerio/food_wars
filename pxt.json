@@ -1,0 +1,36 @@
+{
+    "name": "Untitled 7/29/2025 3:15 PM 9/9/2025 6:46 PM",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-split-screen": "github:riknoll/arcade-split-screen#v0.0.3",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "multiplayer": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "info-blocks-extra": "github:robo-technical-group/pxt-info-blocks-extra#v1.0.4",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "Sprite Walls": "github:Sonicblaston62/Sprite-Walls#86a57ee3f0c3cb96b06187a92ea5235b58adb687",
+        "Custom Keybind Extension": "github:Brohann3214/custom-keybind-extension#ce1cb5acda5cd438592e38da4aaab10b73b46c64"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.0",
+        "tag": "v4.0.14",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a33ec9537bc6c5fada2a3b02aac57a4bc9a10803",
+        "target": "4.0.14",
+        "pxt": "12.2.34"
+    },
+    "preferredEditor": "blocksprj"
+}
